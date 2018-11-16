@@ -1,5 +1,7 @@
 <link rel="stylesheet" href="styles.css2">
 h1 {
-    color: green;
+    color: MediumSeaGreen;
     font-family: courier;
 }
+h3 { 
+color: 
