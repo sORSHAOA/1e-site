@@ -4,5 +4,6 @@ h1 {
     font-family: courier;
 }
 h3 { 
-color: LightGreen;
+    color: LightGreen;
+    font-family: courier;
 }
