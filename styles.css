@@ -1,6 +1,8 @@
 h1 {
     color: MediumSeaGreen;
+    font-family: courier;
 }
-p {
-    color: black;
+h3 { 
+    color: LightGreen;
+    font-family: courier;
 }
